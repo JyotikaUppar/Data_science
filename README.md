@@ -1,7 +1,7 @@
 
-## CodSoft — Data Science Internship Projects
+##  Data Science Projects
 
-Welcome to **CodSoft** — a collection of Data Science internship projects by Jyotika Uppar.  
+Welcome to  a collection of Data Science  projects by Jyotika Uppar.  
 These projects demonstrate hands-on work in **machine learning, data preprocessing, model evaluation, and visualization** using real datasets.
 
 ---
