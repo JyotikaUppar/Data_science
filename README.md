@@ -1,7 +1,7 @@
 
 ##  Data Science Projects
 
-Welcome to  a collection of Data Science  projects by Jyotika Uppar.  
+Welcome to  a collection of Data Science  projects 
 These projects demonstrate hands-on work in **machine learning, data preprocessing, model evaluation, and visualization** using real datasets.
 
 ---
